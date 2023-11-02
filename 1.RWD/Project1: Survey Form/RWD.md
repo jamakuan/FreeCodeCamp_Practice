@@ -28,3 +28,11 @@
     - _blank 
 
 `<figure>`
+
+# CSS
+
+`<div>` : the `<div>` element is used mainly for design layout purposes unlile the other content elements you have used so far
+
+## Selector
+id use `#`
+class use `.`
