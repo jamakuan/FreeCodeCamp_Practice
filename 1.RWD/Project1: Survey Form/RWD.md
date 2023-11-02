@@ -79,3 +79,10 @@ Here's how the offsetX and offsetY values work:
 `spreadRadius`
 `box-shadow: offsetX offsetY blurRadius spreadRadius color;`
 
+
+
+# vh 
+the `vh` unit stands for viewport height, and is relative to `1%` of the `hegiht` of the viewport
+
+# rem
+The `rem` unit stands for root `em`, and is relative to the font size of the `html` element
