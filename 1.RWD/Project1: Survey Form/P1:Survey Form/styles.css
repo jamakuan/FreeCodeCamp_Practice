@@ -5,3 +5,7 @@
 #description{
     text-align: center;
 }
+
+#survey-form{
+    display: block;
+}
